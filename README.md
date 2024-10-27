@@ -9,8 +9,7 @@ _The project is based on the Spark 4.0 Ultra model API to build a variety of emo
 <br>
 ## 2.项目基础（Project Foundation）
 本项目前端使用了开源项目 __NextChat__，网址为 https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web
-
-开源文件在 __/others__ 文件中的 __from-open-resources.zip__ 中。
+<p>开源文件在 __/others__ 文件中的 __from-open-resources.zip__ 中。</p>
 <br>
 <br>
 <br>
