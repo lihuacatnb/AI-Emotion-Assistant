@@ -72,7 +72,10 @@ _Thanks to __Mentor Chen Wei__ from Yanjing University of Science and Technology
 ## 6.项目展示（Project Display）
 <img src="/others/show4.png"/><br>
 <br>
+<br>
 <img src="/others/show5.png"/><br>
 <br>
+<br>
 <img src="/others/show6.png"/><br>
+<br>
 <br>
