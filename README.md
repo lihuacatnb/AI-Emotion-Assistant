@@ -30,7 +30,7 @@ yarn start <br>
 
 ### （4）后端运行 （Back-end Running）
 在讯飞星火平台上，找到 __接口地址__，如图 <br>
-_Find the __API endpoint__ on the Xunfei Spark platform, as shown in the picture._
+_Find the __API endpoint__ on the Xunfei Spark platform, as shown in the picture._ <br>
 <br>
 <br>
 <img src="/others/show1.png"/>
