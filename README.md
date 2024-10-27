@@ -14,6 +14,8 @@ _The project is based on the Spark 4.0 Ultra model API to build a variety of emo
 开源文件在 __/others__ 文件中的 __from-open-resources.zip__ 中。
 <br>
 <br>
+<br>
+<br>
 _This project uses the open-source project __NextChat__. The website is https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web 
 
 The open source file is in the __from-open-resources.zip__ file in the __/others__ file._
