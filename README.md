@@ -35,22 +35,16 @@ _Find the __API endpoint__ on the Xunfei Spark platform, as shown in the picture
 <img src="/others/show1.png"/> <br>
 <br>
 <br>
-在讯飞星火平台上，找到 __APIKEY__ 和 __APISecret__，如图
-
+在讯飞星火平台上，找到 __APIKEY__ 和 __APISecret__，如图 <br>
 _Find the __APIKEY__ and __APISecret__ on the Xunfei Spark platform, as shown in the picture._
-<br>
 <br>
 <img src="/others/show2.png"/>
 <br>
 <br>
-<br>
-在 __/app/config/server.ts__ 中，找到 __// iflytek only__ 这行注释，填入 __接口位置__ , __APIKEY__ 和 __APISecret__，如图
-
+在 __/app/config/server.ts__ 中，找到 __// iflytek only__ 这行注释，填入 __接口位置__ , __APIKEY__ 和 __APISecret__，如图<br>
 _Find the __// iflytek only__ line in __/app/config/server.ts__, fill in the __API endpoint__, __APIKEY__, and __APISecret__, as shown in the picture._
 <br>
-<br>
 <img src="/others/show3.png"/>
-<br>
 <br>
 <br>
 ### 4.注意事项（Precautions）
