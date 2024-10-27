@@ -5,7 +5,6 @@
 本项目基于 Spark 4.0 Ultra 模型的 API 构建了一个多样化的情绪助手系统。系统内置了不同的情绪助手面具，如雷电将军、初音未来和心理专家。此外，还通过快捷指令添加了特色情绪助手，如台湾女生、哲学家等。系统前端使用 React 框架开发，后端基于讯飞星火平台。项目适用于本科毕业设计，暂不推荐用于商业用途。
 <br>
 <br>
-<br>
 _The project is based on the Spark 4.0 Ultra model API to build a variety of emotion assistant systems. The system includes built-in emotion assistant masks such as Raiden Shogun, Miku, and Psychologist. Additionally, it adds special emotion assistant masks through shortcut instructions, such as Taiwan girls and philosophers. The front-end is developed using the React framework, and the back-end is based on the XunFei Spark platform. The project is suitable for undergraduate dissertation work, and it is not recommended for commercial use._
 <br>
 ## 2.项目基础（Project Foundation）
