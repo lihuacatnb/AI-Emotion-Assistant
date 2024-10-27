@@ -17,15 +17,13 @@ The open source file is in the __from-open-resources.zip__ file in the __/others
 
 ## 3.项目运行（Project Running）
 ### （1）前端环境 （Front-end Environment）
-<p>Node 18.16.0</p>
-<p>Yarn 1.22.22 （安装包在 others 文件夹中 _The installation package is in the others folder_）</p>
+Node 18.16.0 <br>
+Yarn 1.22.22 (安装包在 others 文件夹中 _The installation package is in the others folder_)
 
 ### （2）前端运行 （Front-end Running）
-yarn install
-
-yarn build
-
-yarn start
+yarn install <br>
+yarn build <br>
+yarn start <br>
 
 ### （3）后端环境 （Back-end Environment）
 讯飞星火平台 
