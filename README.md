@@ -8,7 +8,7 @@
 _The project is based on the Spark 4.0 Ultra model API to build a variety of emotion assistant systems. The system includes built-in emotion assistant masks such as Raiden Shogun, Miku, and Psychologist. Additionally, it adds special emotion assistant masks through shortcut instructions, such as Taiwan girls and philosophers. The front-end is developed using the React framework, and the back-end is based on the XunFei Spark platform. The project is suitable for undergraduate dissertation work, and it is not recommended for commercial use._
 <br>
 ## 2.项目基础（Project Foundation）
-<p>本项目前端使用了开源项目 __NextChat__，网址为 https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web</p>
+本项目前端使用了开源项目 __NextChat__，网址为 https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web
 <p>开源文件在 __/others__ 文件中的 __from-open-resources.zip__ 中。</p>
 <br>
 <br>
