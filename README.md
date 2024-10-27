@@ -13,13 +13,11 @@ _The project is based on the Spark 4.0 Ultra model API to build a variety of emo
 <br>
 <p>_This project uses the open-source project __NextChat__. The website is https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web </p>
 <p>The open source file is in the __from-open-resources.zip__ file in the __/others__ file._</p>
-<br>
 
 ## 3.项目运行（Project Running）
 ### （1）前端环境 （Front-end Environment）
-Node 18.16.0
-
-Yarn 1.22.22 （安装包在 others 文件夹中 _The installation package is in the others folder_）
+<p>Node 18.16.0</p>
+<p>Yarn 1.22.22 （安装包在 others 文件夹中 _The installation package is in the others folder_）</p>
 
 ### （2）前端运行 （Front-end Running）
 yarn install
