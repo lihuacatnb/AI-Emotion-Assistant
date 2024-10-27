@@ -47,24 +47,24 @@ _Find the __// iflytek only__ line in __/app/config/server.ts__, fill in the __A
 <img src="/others/show3.png"/>
 <br>
 <br>
-### 4.注意事项（Precautions）
+## 4.注意事项（Precautions）
 
-###### （1）头像
+### （1）头像
 头像如果显示不了是因为网络问题，使用国外网络即可显示
 
-###### （2）报错
+### （2）报错
 项目有时候报500或者加载模块慢都是网络的问题，使用国外网络即可解决
 
-###### （3）build问题 （build problem）
+### （3）build问题 （build problem）
 项目中存在许多类型检查的逃避声明，主要是由于开发人员在更换电脑后，运行 yarn build 时频繁遇到类型错误，但是项目本身没有问题，所以开发人员不得不选择使用逃避类型检查的方式来运行项目。
 
 _The project contains many type checking escape declarations, mainly because the development team encountered type errors frequently when running yarn build, but the project itself was not affected. Therefore, the development team had to resort to using escape type checking to run the project._
 
-###### （4）对话（Conversation）
+### （4）对话（Conversation）
 
 进入项目后首页的对话是 __通用模型__，调用 __面具__ 和 __快捷指令__ 后就可以和情绪助手对话了。项目中的 __发现__ 模块中还有个画图功能，可以自行导入对应的api使用。
 
-### 5.开发人员（Developers）
+## 5.开发人员（Developers）
 狸猫科技 _Lihuacat Technology_
 
 感谢燕京理工学院 __陈炜导师__ 的指导
