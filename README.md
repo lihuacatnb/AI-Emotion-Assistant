@@ -1,5 +1,5 @@
-# 基于Spark4.0 Ultra模型的情绪助手
-# Emotion Assistant Based on the Spark4.0 Ultra Model
+# 基于Spark4.0 Ultra模型的AI情绪助手
+# AI Emotion Assistant Based on the Spark4.0 Ultra Model
 
 ## 1.项目简介（Project Introduction）
 本项目基于 Spark 4.0 Ultra 模型的 API 构建了一个多样化的情绪助手系统。系统内置了不同的情绪助手面具，如雷电将军、初音未来和心理专家。此外，还通过快捷指令添加了特色情绪助手，如台湾女生、哲学家等。系统前端使用 React 框架开发，后端基于讯飞星火平台。项目适用于本科毕业设计，暂不推荐用于商业用途。
