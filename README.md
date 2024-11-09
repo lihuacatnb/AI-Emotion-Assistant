@@ -71,7 +71,7 @@ _After entering the project, the homepage dialogue is the __general model__. You
 狸猫科技<br>
 _Lihuacat Technology_ 
 
-感谢燕京理工学院 __陈炜导师__ 的指导 <br>
+感谢燕京理工学院 __陈炜导师__ <br>
 _Thanks to __Mentor Chen Wei__ from Yanjing University of Science and Technology._
 ## 6.项目展示（Project Display）
 <img src="/others/show4.png"/><br>
