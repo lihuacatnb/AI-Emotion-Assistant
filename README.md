@@ -80,5 +80,6 @@ _Thanks to __Mentor Chen Wei__ from Yanjing University of Science and Technology
 <br>
 <br>
 ## 7.商务合作 (Business cooperation)
-微信：maxiuwo1314     _WeChat: maxiuwo1314_ <br>
-邮箱：zhaogangbjm@gmail.com     _Email：zhaogangbjm@gmail.com_
+微信：maxiuwo1314 &nbsp;&nbsp;&nbsp;&nbsp; 邮箱：zhaogangbjm@gmail.com<br> 
+<br>
+_WeChat: maxiuwo1314 &nbsp;&nbsp;&nbsp;&nbsp; Email：zhaogangbjm@gmail.com_
