@@ -62,7 +62,7 @@ _The project contains many type checking escape declarations, mainly because the
 ### （4）对话（Conversation）
 进入项目后首页的对话是 __通用模型__，调用 __面具__ 和 __快捷指令__ 后就可以和情绪助手对话了。项目中的 __发现__ 模块中还有个画图功能，可以自行导入对应的api使用。
 
-_After entering the project, the homepage dialogue is the general model. You can start conversing with the emotional assistants by calling the mask and shortcut commands. The Discovery module in the project also includes a drawing feature, which allows you to import the corresponding API for use._
+_After entering the project, the homepage dialogue is the __general model__. You can start conversing with the emotional assistants by calling the __mask__ and __shortcut commands__. The __Discovery__ module in the project also includes a drawing feature, which allows you to import the corresponding API for use._
 
 ## 5.开发人员（Developers）
 狸猫科技<br>
