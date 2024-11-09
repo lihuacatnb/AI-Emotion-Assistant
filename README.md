@@ -65,7 +65,8 @@ _The project contains many type checking escape declarations, mainly because the
 _After entering the project, the homepage dialogue is the general model. You can start conversing with the emotional assistants by calling the mask and shortcut commands. The Discovery module in the project also includes a drawing feature, which allows you to import the corresponding API for use._
 
 ## 5.开发人员（Developers）
-狸猫科技 _Lihuacat Technology_ 
+狸猫科技<br>
+_Lihuacat Technology_ 
 
 感谢燕京理工学院 __陈炜导师__ 的指导 <br>
 _Thanks to __Mentor Chen Wei__ from Yanjing University of Science and Technology for the guidance._
