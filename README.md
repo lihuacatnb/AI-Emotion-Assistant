@@ -28,7 +28,8 @@ yarn build <br>
 yarn start <br>
 
 ### （3）后端环境 （Back-end Environment）
-讯飞星火平台 
+讯飞星火平台<br>
+XunFei Spark platform
 
 ### （4）后端运行 （Back-end Running）
 在讯飞星火平台上，找到 __接口地址__，如图 <br>
