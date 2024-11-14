@@ -68,8 +68,8 @@ _The project contains many type checking escape declarations, mainly because the
 _After entering the project, the homepage dialogue is the __general model__. You can start conversing with the emotional assistants by calling the __mask__ and __shortcut commands__. The __Discovery__ module in the project also includes a drawing feature, which allows you to import the corresponding API for use._
 
 ## 5.开发人员（Developers）
-狸猫科技<br>
-_Lihuacat Technology_ 
+狸猫C型AI （CatC AI）<br>
+_Lihuacat C-Type AI （CatC AI）_ 
 
 感谢燕京理工学院 __陈炜导师__ <br>
 _Thanks to __Mentor Chen Wei__ from Yanjing University of Science and Technology._
