@@ -35,15 +35,14 @@
 
 ### （4）后端运行
 - 在讯飞星火平台获取 **接口位置**
-<br>
 <img src="/others/show1.png"/>
 <br>
+
 - 获取 **APIKey** 和 **APISecret**  
-<br>
 <img src="/others/show22.png"/>
 <br>
-- 在 __/app/config/server.ts__ 中，找到 __// iflytek only__ 注释，填入 __接口位置__ , __APIKEY__ 和 __APISecret__，如图
-<br>
+
+- 在 __/app/config/server.ts__ 中，找到 __// iflytek only__ 注释，填入 __接口位置__ , __APIKEY__ 和 __APISecret__
 <img src="/others/show3.png"/>
 <br>
 
@@ -53,9 +52,6 @@
 - ⚠️ **build 类型报错**：项目中存在许多类型检查的逃避声明，主要是由于开发人员在更换电脑后，运行 yarn build 时频繁遇到类型错误，但是项目本身没有问题，所以开发人员不得不选择使用逃避类型检查的方式来运行项目  
 - 💬 **对话使用**：首页默认通用模型，切换面具或快捷指令即可与情绪助手对话  
 - 🎨 **画图功能**：项目中的 __发现__ 模块中还有个画图功能，可以自行导入对应的api使用
-
-
-
 
 ## 5.开发人员团队
 - 狸猫C型AI
