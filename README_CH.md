@@ -38,11 +38,15 @@
 <img src="/others/show1.png"/>
 <br>
 <br>
-- 获取 **APIKey** 和 **APISecret**  
+
+- 获取 **APIKey** 和 **APISecret**
+  
 <img src="/others/show22.png"/>
+<br>
 <br>
 
 - 在 __/app/config/server.ts__ 中，找到 __// iflytek only__ 注释，填入 __接口位置__ , __APIKEY__ 和 __APISecret__
+
 <img src="/others/show3.png"/>
 <br>
 
