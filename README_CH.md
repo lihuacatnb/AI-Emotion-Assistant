@@ -44,12 +44,10 @@
 <br>
 <img src="/others/show22.png"/>
 <br>
-<br>
 
 - 在 __/app/config/server.ts__ 中，找到 __// iflytek only__ 注释，填入 __接口位置__ , __APIKEY__ 和 __APISecret__，如图
 <br>
 <img src="/others/show3.png"/>
-<br>
 <br>
 
 ## 4.注意事项
