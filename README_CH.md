@@ -36,15 +36,12 @@
 ### （4）后端运行
 - 在讯飞星火平台获取 **接口位置**
 <br>
-<img src="/others/show1.png"/> <br>
+<img src="/others/show1.png"/>
 <br>
-<br>
-
 - 获取 **APIKey** 和 **APISecret**  
 <br>
 <img src="/others/show22.png"/>
 <br>
-
 - 在 __/app/config/server.ts__ 中，找到 __// iflytek only__ 注释，填入 __接口位置__ , __APIKEY__ 和 __APISecret__，如图
 <br>
 <img src="/others/show3.png"/>
